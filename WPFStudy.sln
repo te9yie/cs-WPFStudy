@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessKey", "AccessKey\Acce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateUserControl", "CreateUserControl\CreateUserControl.csproj", "{A1EC7E53-0EDF-42E3-BBBD-CDF2B7330CC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyChange", "PropertyChange\PropertyChange.csproj", "{BF265359-0250-4AC9-BDE2-C55FB252F846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyChange", "PropertyChange\PropertyChange.csproj", "{BF265359-0250-4AC9-BDE2-C55FB252F846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCommands", "AppCommands\AppCommands.csproj", "{89B6E31A-B01D-4499-AD5C-672E598C5149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BF265359-0250-4AC9-BDE2-C55FB252F846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF265359-0250-4AC9-BDE2-C55FB252F846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF265359-0250-4AC9-BDE2-C55FB252F846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B6E31A-B01D-4499-AD5C-672E598C5149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B6E31A-B01D-4499-AD5C-672E598C5149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B6E31A-B01D-4499-AD5C-672E598C5149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B6E31A-B01D-4499-AD5C-672E598C5149}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
